@@ -1,5 +1,5 @@
-PIERRE COMPUTER COMPANY █
-PROJECT: OMARCHY THEME
+OMARCHY █
+PROJECT: THEME
 
 ~~~
 
@@ -19,28 +19,28 @@ Overview:
 
 Usage:
 
+ Terminal:
+  omarchy theme install https://github.com/douglasdemoura/omarchy-pierre-light-theme
+
  Omarchy:
   1. Super + Space > "Install > Style > Theme"
   2. Paste:
 
   https://github.com/douglasdemoura/omarchy-pierre-light-theme
 
- Terminal:
-  omarchy theme install https://github.com/douglasdemoura/omarchy-pierre-light-theme
-
   Available themes:
-   - Pierre Dark           https://github.com/douglasdemoura/omarchy-pierre-dark-theme
-   - Pierre Dark Soft      https://github.com/douglasdemoura/omarchy-pierre-dark-soft-theme
-   - Pierre Dark Vibrant   https://github.com/douglasdemoura/omarchy-pierre-dark-vibrant-theme  (Display P3)
-   - Pierre Light          https://github.com/douglasdemoura/omarchy-pierre-light-theme
-   - Pierre Light Soft     https://github.com/douglasdemoura/omarchy-pierre-light-soft-theme
-   - Pierre Light Vibrant  https://github.com/douglasdemoura/omarchy-pierre-light-vibrant-theme  (Display P3)
+   - [Pierre Dark](https://github.com/douglasdemoura/omarchy-pierre-dark-theme)
+   - [Pierre Dark Soft](https://github.com/douglasdemoura/omarchy-pierre-dark-soft-theme)
+   - [Pierre Dark Vibrant](https://github.com/douglasdemoura/omarchy-pierre-dark-vibrant-theme)  (Display P3)
+   - [Pierre Light](https://github.com/douglasdemoura/omarchy-pierre-light-theme)
+   - [Pierre Light Soft](https://github.com/douglasdemoura/omarchy-pierre-light-soft-theme)
+   - [Pierre Light Vibrant](https://github.com/douglasdemoura/omarchy-pierre-light-vibrant-theme)  (Display P3)
 
 ~~~
 
 Credits:
 
- Warehouse photograph by Craftsman Concrete Floors on Unsplash
+ Warehouse photograph by Craftsman Concrete Floors on [Unsplash]
  (unsplash.com/photos/empty-modern-warehouse-interior-with-polished-concrete-floor-3lkaszxWfGc),
- used under the Unsplash License (unsplash.com/license).
+ used under the [Unsplash License](https://unsplash.com/license).
  The blob is an original render reflecting that photograph.
